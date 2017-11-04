@@ -1,3 +1,13 @@
 # hexagrid
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/LVRQoFFB7I0?list=PLlFNyJSlfYyRlbtkQz8ggsMFc-ZvBDfL8" frameborder="0" gesture="media" allowfullscreen></iframe>
+[Youtube - DFS on hexagrid with Python in an hour](https://youtu.be/LVRQoFFB7I0 "DFS on hexagrid with Python in an hour")
+
+### Environment
+- JetBrains PyCharm 2017.1.1
+- Python GUI module - Tkinter
+- mspaint (!)
+- Windows 10 64bit
+
+### Developed by
+
+- joonas-yoon
